@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+tensorflow==2.17.0
+torch
+transformers
+tokenizers
+datasets
+accelerate
+safetensors
+nltk
+google-generativeai
+python-dotenv
+matplotlib

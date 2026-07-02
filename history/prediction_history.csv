@@ -1,0 +1,126 @@
+Timestamp,Input Text,Predicted Emotion
+2026-06-28 14:48:54,I am very happy today because I passed my exam.,joy
+2026-06-28 15:06:46,I am sad because i failed i exam,sadness
+2026-06-28 15:07:27,i love my family,joy
+2026-06-28 15:08:11,I am very angry because nobody listened to me.,anger
+2026-06-28 15:08:15,I am very angry because nobody listened to me.,anger
+2026-06-28 15:08:42,Tomorrow is my final exam and I am scared.,fear
+2026-06-28 15:09:05,I love spending time with my family.,joy
+2026-06-28 15:09:23,I was surprised when I won the competition.,surprise
+2026-06-28 15:09:57,I feel lonely and depressed today.,sadness
+2026-06-28 15:10:16,I love spending time with my family.,joy
+2026-06-28 15:17:51,I'm Scared,fear
+2026-06-28 15:24:19,Tomorrow Is My Final Exam and I'm Scared,fear
+2026-06-28 15:26:53,Tomorrow Is My Final Exam and I'm Scared!,fear
+2026-06-28 15:26:56,Tomorrow Is My Final Exam and I'm Scared!,fear
+2026-06-30 10:25:08,string,joy
+2026-06-30 10:27:33,"I am sad that my friend moved away, but happy for their success.
+",sadness
+2026-06-30 10:27:33,"I am sad that my friend moved away, but happy for their success.
+",sadness
+2026-06-30 10:28:51,"I really appreciate all the support from my friends.
+",love
+2026-06-30 10:28:51,"I really appreciate all the support from my friends.
+",love
+2026-06-30 10:29:17,"Wow! I never expected this to happen.
+",surprise
+2026-06-30 10:29:17,"Wow! I never expected this to happen.
+",surprise
+2026-06-30 10:29:29,"What a wonderful surprise!
+",surprise
+2026-06-30 10:29:29,"What a wonderful surprise!
+",surprise
+2026-06-30 10:29:56,"I am grateful to have such wonderful people in my life.
+",joy
+2026-06-30 10:29:56,"I am grateful to have such wonderful people in my life.
+",joy
+2026-06-30 10:30:25,"I am nervous about tomorrow's interview.
+",fear
+2026-06-30 10:30:25,"I am nervous about tomorrow's interview.
+",fear
+2026-06-30 10:30:51,"I am really frustrated because nothing is working.
+",anger
+2026-06-30 10:30:51,"I am really frustrated because nothing is working.
+",anger
+2026-06-30 10:31:34,"I am furious about what happened today.
+",anger
+2026-06-30 10:31:34,"I am furious about what happened today.
+",anger
+2026-06-30 10:32:01,"I am proud of my achievement, yet I fear the responsibilities ahead.
+",joy
+2026-06-30 10:32:01,"I am proud of my achievement, yet I fear the responsibilities ahead.
+",joy
+2026-06-30 10:33:12,"I feel anxious before every presentation.
+",fear
+2026-06-30 10:33:13,"I feel anxious before every presentation.
+",fear
+2026-06-30 10:33:32,"I am worried about my future.
+",fear
+2026-06-30 10:33:32,"I am worried about my future.
+",fear
+2026-06-30 10:34:09,"I am sad that my friend moved away, but happy for their success.
+",sadness
+2026-06-30 10:34:09,"I am sad that my friend moved away, but happy for their success.
+",sadness
+2026-06-30 10:34:47,"I love my new city, but I miss my hometown.
+",love
+2026-06-30 10:34:47,"I love my new city, but I miss my hometown.
+",love
+2026-06-30 10:48:53,I am very happy today.,joy
+2026-06-30 13:59:36,I am very happy today because I passed my exam.,joy
+2026-06-30 13:59:37,I am very happy today because I passed my exam.,joy
+2026-06-30 14:15:02,"I am really frustrated because nothing is working.
+
+",anger
+2026-06-30 14:15:02,"I am really frustrated because nothing is working.
+
+",anger
+2026-06-30 14:15:26,"I feel heartbroken after hearing the news.
+
+",sadness
+2026-06-30 14:15:27,"I feel heartbroken after hearing the news.
+
+",sadness
+2026-06-30 14:15:46,"I am really frustrated because nothing is working.
+
+",anger
+2026-06-30 14:15:46,"I am really frustrated because nothing is working.
+
+",anger
+2026-06-30 14:16:21,"I really appreciate all the support from my friends.
+",love
+2026-06-30 14:16:22,"I really appreciate all the support from my friends.
+",love
+2026-06-30 14:16:54,"I was completely shocked by the results.
+",surprise
+2026-06-30 14:16:54,"I was completely shocked by the results.
+",surprise
+2026-06-30 14:17:19,"I feel anxious before every presentation.
+",fear
+2026-06-30 14:17:19,"I feel anxious before every presentation.
+",fear
+2026-06-30 14:17:48,"I wish things could get better.
+",love
+2026-06-30 14:17:48,"I wish things could get better.
+",love
+2026-06-30 14:18:13,"You always make me feel special.
+",joy
+2026-06-30 14:18:13,"You always make me feel special.
+",joy
+2026-06-30 14:18:32,"I am grateful to have such wonderful people in my life.
+",joy
+2026-06-30 14:18:32,"I am grateful to have such wonderful people in my life.
+",joy
+2026-06-30 14:19:01,"I am proud of my achievement, yet I fear the responsibilities ahead.
+",joy
+2026-06-30 14:19:01,"I am proud of my achievement, yet I fear the responsibilities ahead.
+",joy
+2026-06-30 14:20:34,"This was totally unexpected!
+",surprise
+2026-06-30 14:20:34,"This was totally unexpected!
+",surprise
+2026-06-30 14:21:15,"I am happy that I passed, but I am worried about the next semester.
+",joy
+2026-06-30 14:21:15,"I am happy that I passed, but I am worried about the next semester.
+",joy
+2026-06-30 14:37:30,I am very happy today.,joy
