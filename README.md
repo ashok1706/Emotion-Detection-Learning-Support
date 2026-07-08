@@ -241,7 +241,7 @@ The datasets were preprocessed using NLP techniques such as text cleaning, TF-ID
 
 # 👩‍💻 Author
 
-**Zafreen Shaik**
+**Ashok Ponnuri**
 
 Skill Wallet Project
 
